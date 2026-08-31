@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chigusa&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Linux%20Enthusiast%20%7C%20AI%20tooling%20builder&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=8CAAEE&center=true&vCenter=true&width=500&lines=Rice%2FCostumization;Building+AI-powered+document+tools;Student+%7C+Java+OOP+%2B+research+methods;Self-hosted%2C+open-source%" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=8CAAEE&center=true&vCenter=true&width=500&lines=Full+Costumization;Building+AI-powered+document+tools;Student+%7C+Java+OOP+%2B+research+methods;Self-hosted%2C+open-source%" alt="Typing SVG" />
 
 </div>
 
