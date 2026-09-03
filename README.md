@@ -8,7 +8,7 @@
 
 ## 👋 About
 
-Halo, gw chigusa — mahasiswa yang sekedar iseng dan suka teknologi. Ini cuma buat ngerapihin tampilan di github aja sih dan so far belum ada yang menarik dari akun ini. terimakasih
+Halo, gue chigusa — mahasiswa yang sekedar iseng dan suka teknologi. Ini cuma buat ngerapihin tampilan di github aja sih dan so far belum ada yang menarik dari akun ini. terimakasih
 
 - 🐧 Daily driver: **CachyOS (Arch-based)** + **Hyprland**, dirapiin pake **end-4 (illogical-impulse/ii)** & **Caelestia** Quickshell configs — glassmorphic, floating cards, dan hal hal yang gw suka.
 - 🛠️ Lagi ngembangin **docx-generator-beta** — tool AI yang bisa auto-generate laporan/dokumen atau apapun itu karna gw males bikin tugas kuliah secara manual, sekarang jalan di atas FastAPI + WebSocket dashboard dengan rendering engine Node.js (docx-js).
